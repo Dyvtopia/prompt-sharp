@@ -1,5 +1,5 @@
 
-![Prompt# Logo](logo/propmt-sharp.png)
+![Prompt# Logo](logo/prompt-sharp.png)
 
 # Prompt# (Prompt Sharp)
 
