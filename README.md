@@ -1,4 +1,6 @@
 
+![Prompt# Logo](logo/propmt-sharp.png)
+
 # Prompt# (Prompt Sharp)
 
 **Prompt#** is a collection of ready-to-use GitHub Copilot prompt templates for real-world software development tasks.  
