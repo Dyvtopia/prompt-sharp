@@ -28,6 +28,7 @@ docs-generate-readme.prompt.md
 
 ## Folder Structure
 
+```
 prompt-sharp/
 │
 ├── prompts/
@@ -39,6 +40,7 @@ prompt-sharp/
 │   └── docs-generate-readme.prompt.md
 │
 └── README.md  ← describes naming convention and usage
+```
 
 
 ## Naming Rules
